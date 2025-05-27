@@ -1,0 +1,5 @@
+Backend/node_modules
+Portal/node_modules
+Portal/.angular
+Portal/.vscode
+Backend/.env
